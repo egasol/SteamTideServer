@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SkillFishing",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SkillFishing",
+  "parent":{
+    "name":"Skills",
+    "path":"folders/Scripts/Entity/Skills.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GridCollisionLine",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GridCollisionLine",
+  "parent":{
+    "name":"Grid",
+    "path":"folders/Scripts/Grid.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

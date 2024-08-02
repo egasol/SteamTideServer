@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ReadPickup",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ReadPickup",
+  "parent":{
+    "name":"Read",
+    "path":"folders/Scripts/Networking/Read.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

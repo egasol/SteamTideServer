@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ReadMessage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ReadMessage",
+  "parent":{
+    "name":"Read",
+    "path":"folders/Scripts/Networking/Read.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

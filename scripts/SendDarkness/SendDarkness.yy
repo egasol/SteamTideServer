@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SendDarkness",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SendDarkness",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

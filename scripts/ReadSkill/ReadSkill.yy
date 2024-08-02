@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ReadSkill",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ReadSkill",
+  "parent":{
+    "name":"Read",
+    "path":"folders/Scripts/Networking/Read.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

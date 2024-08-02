@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"EntityDataBuffer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"EntityDataBuffer",
+  "parent":{
+    "name":"Entity",
+    "path":"folders/Scripts/Entity.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

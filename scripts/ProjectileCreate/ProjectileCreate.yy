@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ProjectileCreate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ProjectileCreate",
+  "parent":{
+    "name":"Actions",
+    "path":"folders/Scripts/Entity/Actions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

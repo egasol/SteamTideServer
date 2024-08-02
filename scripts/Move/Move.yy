@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Move",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Move",
+  "parent":{
+    "name":"Actions",
+    "path":"folders/Scripts/Entity/Actions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

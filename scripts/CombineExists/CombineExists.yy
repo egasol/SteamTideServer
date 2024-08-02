@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"CombineExists",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CombineExists",
+  "parent":{
+    "name":"Actions",
+    "path":"folders/Scripts/Entity/Actions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BehaviorAggressive",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BehaviorAggressive",
+  "parent":{
+    "name":"Behavior",
+    "path":"folders/Scripts/Entity/Behavior.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

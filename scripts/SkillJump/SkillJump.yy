@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SkillJump",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SkillJump",
+  "parent":{
+    "name":"Skills",
+    "path":"folders/Scripts/Entity/Skills.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

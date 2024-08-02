@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"AddGrove",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"AddGrove",
+  "parent":{
+    "name":"Add",
+    "path":"folders/Scripts/Add.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

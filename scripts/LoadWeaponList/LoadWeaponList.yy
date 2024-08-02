@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"LoadWeaponList",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LoadWeaponList",
+  "parent":{
+    "name":"Load",
+    "path":"folders/Scripts/Load.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

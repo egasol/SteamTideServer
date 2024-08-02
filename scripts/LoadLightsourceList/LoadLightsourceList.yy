@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"LoadLightsourceList",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LoadLightsourceList",
+  "parent":{
+    "name":"Load",
+    "path":"folders/Scripts/Load.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

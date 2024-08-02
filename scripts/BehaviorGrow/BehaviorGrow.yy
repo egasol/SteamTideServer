@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BehaviorGrow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BehaviorGrow",
+  "parent":{
+    "name":"Behavior",
+    "path":"folders/Scripts/Entity/Behavior.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
